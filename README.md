@@ -18,7 +18,7 @@
 
 ## **1. Apresentação:**
 
-<img src="photo.png" width="200" height="200" alt="Luís Gustavo">
+<img src="docs/images/photo.png" width="200" height="200" alt="Luís Gustavo">
 
 *Meu nome é Luís Gustavo, tenho 24 anos e sou natural de Maceió, Alagoas. Também sou estudante de Engenharia Eletrônica na UFPE, em Recife, com formação prevista para o final de 2026.*
 
@@ -30,7 +30,19 @@
 
 ## **2. Introdução:**
 
-*Nos conceitos de segurança da informação, o termo **malware** (abreviação em inglês para software malicioso) é uma expressão geral para descrever programas desenvolvidos com o intuito de causar danos, obter acessos não autorizados, roubar informações, comprometer a segurança do dispositivo ou interromper serviços. **Malwares** podem infectar computadores, notebooks, smartphones, servidores e até dispositivos da Internet das Coisas (IoT).*
+*Nos conceitos de segurança da informação, o termo **malware** (em inglês, software malicioso) é uma expressão geral para descrever programas desenvolvidos com o intuito de causar danos, obter acessos não autorizados, roubar informações, comprometer a segurança do dispositivo ou interromper serviços. **Malwares** podem infectar computadores, notebooks, smartphones, servidores e até dispositivos da Internet das Coisas (IoT).*
+
+*Dentre os principais tipos de **malwares**, podemos destacar:*
+
+- **Vírus:** *Malwares do tipo vírus tem o objetivo de infectar o computador, replicar-se e espalhar-se. Essa replicação e espalhamento ocorre por meio de ações do usuário, como abrir um arquivo infectado.*
+
+- **Ransomware:** *O ransomware é o tipo de programa malicioso que criptografa os dados da máquina e faz extorsão, frequentemente pedindo pagamentos por meio de bitcoins. Em caso de não pagamento, os dados eram apagados do computador.*
+
+- **Spyware:** *É um programa malicioso que coleta dados do usuário sem o conhecimento, seja via tela (screenlogger) ou teclado e mouse (keylogger).*
+
+*Ao longo da história dos computadores, tivemos alguns casos famosos no mundo, a exemplo do vírus ILOVEYOU (maio de 2000), do ransomware WannaCry (12 de maio de 2017) e do spyware Pegasus.*
+
+<img src="docs/images/wannacry_ransomware.png" width="200" height="200" alt="Imagem da tela do ransomware WannaCry">
 
 ---
 
