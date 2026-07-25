@@ -42,7 +42,7 @@
 
 *Ao longo da história dos computadores, tivemos alguns casos famosos no mundo, a exemplo do vírus ILOVEYOU (maio de 2000), do ransomware WannaCry (12 de maio de 2017) e do spyware Pegasus.*
 
-<img src="docs/images/wannacry_ransomware.png" width="200" height="200" alt="Imagem da tela do ransomware WannaCry">
+<img src="docs/images/wannacry_ransomware.png" width="500" height="500" alt="Imagem da tela do ransomware WannaCry">
 
 ---
 
