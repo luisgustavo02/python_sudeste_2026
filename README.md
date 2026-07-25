@@ -40,6 +40,12 @@
 
 - **Spyware:** *É um programa malicioso que coleta dados do usuário sem o conhecimento, seja via tela (screenlogger) ou teclado e mouse (keylogger).*
 
+- **Rootkit:** *Rootkit, do inglês root (administrador) e kit (conjunto de ferramentas), é um malware que permite o acesso de administrador a outros programas maliciosos.*
+
+- **Backdoor:**
+
+- **Worms:**
+
 *Ao longo da história dos computadores, tivemos alguns casos famosos no mundo, a exemplo do vírus ILOVEYOU (maio de 2000), do ransomware WannaCry (12 de maio de 2017) e do spyware Pegasus.*
 
 <img src="docs/images/wannacry_ransomware.png" width="500" height="500" alt="Imagem da tela do ransomware WannaCry">
