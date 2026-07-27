@@ -95,9 +95,9 @@ Por fim, temos os parâmetros principais para executar o código do androwarn:
 
 - `-v`: Abreviatura para *verbose*, indicando o nível de especificidade, em que valor padrão é 1 (Essencial 1; Avançado 2; Perito 3).
 
-Assim, executamos o comando:
+Assim, executamos o comando, selecionando um dos malwares da pasta:
 
-`python androwarn.py AndroidSamples-main/VirusShare...`
+`python androwarn.py -i AndroidSamples-main/VirusShare... -r html -v 3`
 
 
 ### **3.2. PEscanner:**
